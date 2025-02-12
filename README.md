@@ -1,4 +1,4 @@
 # task-web
-this is my frist backend mini project
+this is my frist reposetry
 <br>
 author - Mayank kori
