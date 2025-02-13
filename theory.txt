@@ -1,0 +1,9 @@
+dyamic routing
+    dynamic routing 
+    how to get comming data from frontend at backend routes
+
+seting up parsers for from
+
+setting p ejs for ejs pages
+
+setting up public static files
